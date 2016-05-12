@@ -33,7 +33,7 @@ def ff(n,m):
             if list1[k1]==list2[k2]:
                 list3.append(list1[k1])
     return max(list3)#返回最大的列表值
-print ff(1234567,78901)
+print ff(123456,7890)
 
 
 #查看答案后改进:
