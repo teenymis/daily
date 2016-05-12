@@ -14,7 +14,7 @@
 #             list2.append(j)
 #     list3=[eache1+'.'+eache2 for eache1 in list1 for eache2 in list2 if eache1[0]==eache2[0]]
 #     print(list3)
-#
+# Mac test 2016-05-13 01:07:04
 # ff(100,150)
 
 #list3=[(int(k1),int(k2)) for k1 in list1 for k2 in list2 if int(k1[0])==int(k2[0])]
